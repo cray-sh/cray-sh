@@ -3,7 +3,7 @@
 - I'm making a bit of a career change embracing the analytical mindset that comes with science (and physics) and joining it with the infinite puzzles that come with programming.
 - Passion drives me to learn and challenge myself on a daily basis.
 - I’m interested in python programming and data science.
-- I’m currently learning SQL, R, Power BI, and continuing to strengthen my python.
+- I’m currently learning SQL, Git, Cloud based services, Power BI, and continuing to strengthen my python.
 - Have a good day if you've come this far and read this :)
 
 <!---
