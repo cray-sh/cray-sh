@@ -1,4 +1,4 @@
-- Hi, I’m @cray-sh
+- Hi, I’m Adam Palenchar (cray-sh).
 - I'm a graduate in physics with a love of both programming and science.
 - I recently picked up a certificate on python automation.
 - I'm making a bit of a career change embracing the analytical mindset that comes with science (and physics) and joining it with the infinite puzzles that come with programming.
