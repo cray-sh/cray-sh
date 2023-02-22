@@ -1,10 +1,19 @@
 - Hi, I’m Adam Palenchar (cray-sh).
-- I'm a graduate in physics with a love of both programming and science.
-- I recently picked up a certificate on python automation.
-- I'm making a bit of a career change embracing the analytical mindset that comes with science (and physics) and joining it with the infinite puzzles that come with programming.
 - Passion drives me to learn and challenge myself on a daily basis.
-- I’m interested in python programming and data science.
-- I’m currently learning SQL, Git, Cloud based services, Power BI, and continuing to strengthen my python.
+
+- I'm a graduate in physics with a love of both science and programming. 
+- This has led me to the world of data science where I have started learning the many moving parts surrounding it.
+- I recently picked up a certificate on python automation as a good first step in my path to data science.
+
+- I’m interested in python programming for automation and data science, as well as the Microsoft Power Platform.
+
+- In Progress:
+- Data/Microsoft Power: SQL, Cloud based services, Power BI, and Power Automate.
+- Python: Numpy, Scipy, Pandas, Django
+
+- Current Skills: 
+- Git/Github/VCS, Cloud Config, Python Automation, Django, Regular Expressions, Linux and bash
+
 - Have a good day if you've come this far and read this :)
 
 <!---
